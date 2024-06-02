@@ -3,7 +3,7 @@ const chalk = require('chalk');
 require('dotenv').config();
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "919931122319"],
+global.ownernumber = [ process.env.OWNER_NUMBER || "2348033539732"],
 global.ownername = process.env.OWNER_NAME || "A Adam",
 global.ytname = "YT: ATeamupdtes.inc"
 global.socialm = "GitHub: Aadam11"
